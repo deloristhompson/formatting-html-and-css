@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica, sans-serif;
+  margin: auto;
+  background-color: #F6F6EF;
+}
+
+.directions ol{
+  text-indent: 5px;
+}
+
+.ingredients li {
+  text-indent: 5px;
+}
+
+.recipe {
+  padding-left: 10px;
+}
+
+.site-title {
+  background-color: #FF6600;
+  padding-left: 10px;
+}
+
+.site-title h3{
+  color: white;
+  margin: 0;
+  display: inline;
+}
+
+.site-title h4{
+  color: black;
+  text-align: center;
+  margin: 0;
+  width: 80%;
+  display: inline-block;
+}
+
+#main-photo{
+  width: 360px;;
+  height: 300px;
+}
